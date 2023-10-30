@@ -1,10 +1,7 @@
 """
 Domingo Cipher
-By: Sourish, Deion, Nate, and Andreas
+By: Sourish Mukherji
 Sourish: 64018011@ep-student.org
-Andreas: 90308306@ep-student.org
-Nate: 64012986@ep-student.org
-Deion: 64000879@ep-student.org
 """
 encrypt = ""
 Alpha = ['A', 'B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
